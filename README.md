@@ -24,3 +24,10 @@ Pour faire simple on utilise MVC maintenant on connaît bien, j'ai commencé à 
 On utilise un template qui s'appelle TWIG pour le views, c'est pareil que lorsqu'on a fait le J2EE, ça parmet de récupérer dans variables du controller dans les views facilement.
 
 
+to use:
+
+https://data.toulouse-metropole.fr/explore/dataset/recensement-population-2011-grands-quartiers-familles/information/
+https://data.toulouse-metropole.fr/explore/dataset/recensement-population-2011-grands-quartiers-population/table/
+https://data.toulouse-metropole.fr/explore/dataset/recensement-population-2011-grands-quartiers-diplomes/
+https://data.toulouse-metropole.fr/explore/dataset/toulouse_gq_logement_rp2011/
+https://data.toulouse-metropole.fr/explore/dataset/recensement-population-2011-grands-quartiers-activite/
